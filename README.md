@@ -1,4 +1,4 @@
-# API de Gerenciamento de Clientes e Contatos
+# Desafio Backend Nubank
 
 Sistema simples pra gerenciar clientes e seus contatos usando Spring Boot e PostgreSQL.
 
