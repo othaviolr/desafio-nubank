@@ -31,6 +31,6 @@ src/main/java/
 
 ## Relacionamento
 
-Cliente (1) ----> (*) Contato
+Cliente (1) ---> (*) Contato
 
 Um cliente pode ter vários contatos, mas cada contato pertence a apenas um cliente.
